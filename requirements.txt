@@ -1,0 +1,10 @@
+faiss-cpu
+openai==1.0
+numpy
+PyPDF2
+pandas
+scikit-learn
+requests
+beautifulsoup4
+tqdm
+tiktoken
