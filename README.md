@@ -1,5 +1,4 @@
 # README for Tasks
-# API key won't work
 ## Task 1: Chat with PDF Using RAG Pipeline
 
 ### Overview
